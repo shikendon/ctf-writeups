@@ -30,3 +30,6 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# CTF challenge binaries (downloaded from challenges)
+pwnable.tw/start/start
