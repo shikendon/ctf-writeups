@@ -32,4 +32,6 @@ go.work.sum
 # .vscode/
 
 # CTF challenge binaries (downloaded from challenges)
-pwnable.tw/start/start
+pwnable.tw/001-start/start
+pwnable.tw/002-orw/orw
+pwnable.tw/003-calc/calc
